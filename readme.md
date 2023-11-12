@@ -1,3 +1,11 @@
+# Run the project
+
+- npm start or npm run start
+
+# Build the project
+
+- npm run build
+
 # Parcel
 
 - Dev build
